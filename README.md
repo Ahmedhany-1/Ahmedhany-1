@@ -29,8 +29,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ahmedhany_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a-hani" height="30" width="40" /></a>
-</p>
-<a href="https://atcoder.jp/users/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahmedhany_1" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/Ahmedhany_1" target="_blank"><img align="center" src="https://atcoder.jp/" alt="Ahmedhany_1" height="30" width="40" /></a>
 </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
