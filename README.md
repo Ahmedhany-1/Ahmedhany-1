@@ -39,20 +39,20 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednassar7&show_icons=true&locale=en&layout=compact" alt="ahmednassar7" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedhany-1&show_icons=true&locale=en&layout=compact" alt="Ahmedhany-1" /></p>
 
-<p>&nbsp;<img align="right" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
+<p>&nbsp;<img align="right" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=Ahmedhany-1&show_icons=true&locale=en" alt="Ahmedhany-1" /></p>
 
-<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=Ahmedhany-1&theme=highcontrast" alt="GitHub Streak" /></a>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h3 align="left">Snake Eating My Contributions:</h3>
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedhany-1/Ahmedhany-1/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedhany-1/Ahmedhany-1/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmedhany-1/Ahmedhany-1/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
 
