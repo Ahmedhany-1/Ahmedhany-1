@@ -12,33 +12,29 @@
 
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🤓 I’m a `Junior Computer Science Student`. 
+- 🤓 I’m a `sophomore Computer Science Student`. 
 
 - 🌱 I’m learning `Software Engineering` and `Web Development`.
 
 - 🤝 I’m looking for an `Internship` or a `Part-Time Job`.
 
-- 📄 Know about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasssar" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.svg" alt="Telegram" height="30" width="32" /></a>
-<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="30" width="32" /></a>
+<a href="https://www.linkedin.com/in/a-hani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hani" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmedhany.fathy.5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://wa.me/0201552101836" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
+<a href="https://t.me/Ahmedhany_1" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.svg" alt="Telegram" height="30" width="32" /></a>
+<a href="ahmedfathyhany@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="30" width="32" /></a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_moh_nassar00" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmed_nassar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_nassar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasssar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_nassar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasssar" height="30" width="40" /></a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
