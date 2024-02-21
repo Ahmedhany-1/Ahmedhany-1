@@ -3,18 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;sophomore+Computer+Science+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> 
-  <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="ahmednassar7" height="21" width="100" />
-</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
+- 🤓 I’m a `sophomore Computer Science Student`.
 
-<img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+-  🌱 I’m learning `Software Engineering` and `Web Development`.
 
-- 🤓 I’m a `sophomore Computer Science Student`. 
-
-- 🌱 I’m learning `Software Engineering` and `Web Development`.
+- 🌱 Currently interested in `Problem-Solving` and `C++` and `Web Development`.
 
 - 🤝 I’m looking for an `Internship` or a `Part-Time Job`.
 
