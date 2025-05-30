@@ -67,8 +67,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhany-1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhany-1&theme=github-dark-blue&hide_border=true&fire=FFD700&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
+
+
 
 ---
 
@@ -76,6 +78,30 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmedhany-1&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 GitHub Activity & Insights
+
+<div align="center">
+  
+### 📊 Detailed Analytics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmedhany-1&theme=github_dark" width="100%"/>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedhany-1&theme=github-compact&hide_border=true&area=true&custom_title=Ahmed's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎮 Fun Zone
+
+<div align="center">
+
+### 🎲 Random Programming Joke
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Programming Joke" width="500"/>
+
 </div>
 
 ---
@@ -91,19 +117,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ahmedhany_1)
 
 </div>
-
----
-
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github.com/Ahmedhany-1/Ahmedhany-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<!-- Alternative if above doesn't work -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmedhany-1/Ahmedhany-1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
--->
 
 ---
 
