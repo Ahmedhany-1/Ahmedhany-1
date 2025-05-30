@@ -1,58 +1,124 @@
-<h1 align="center">Welcome 👋, I'm Ahmed Hany</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;sophomore+Computer+Science+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
+# Hi there, I'm Ahmed Hany 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
+</div>
 
-- 🤓 I’m a `sophomore Computer Science Student`.
+---
 
--  🌱 I’m learning `Software Engineering` and `Web Development`.
+## 🚀 About Me
 
-- 🌱 Currently interested in `Problem-Solving` and `C++` and `Web Development`.
+- 🎓 **Sophomore Computer Science Student** with a passion for technology
+- 💻 **Software Engineer** focusing on web development and problem-solving
+- 🏆 **Competitive Programmer** on Codeforces and LeetCode
+- 🌱 Currently learning **Advanced Web Development** and **Software Engineering**
+- 🎯 Interested in **Algorithm Design**, **C++**, and **Full-Stack Development**
+- 💼 Looking for **Internship** or **Part-Time** opportunities
+- ⚡ Fun fact: I love solving complex problems and building innovative solutions!
 
-- 🤝 I’m looking for an `Internship` or a `Part-Time Job`.
+---
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+### Programming Languages
 <p align="left">
-<a href="https://www.linkedin.com/in/a-hani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahmedhany.fathy.5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://wa.me/0201552101836" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
-<a href="https://t.me/Ahmedhany_1" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.svg" alt="Telegram" height="30" width="32" /></a>
-<a href="ahmedfathyhany@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="30" width="32" /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h3 align="left">Competitive Programming:</h3>
+### Databases
 <p align="left">
-<a href="https://codeforces.com/profile/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ahmedhany_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Ahmedhany_1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a-hani" height="30" width="40" /></a>
-</p>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedhany-1&show_icons=true&locale=en&layout=compact" alt="Ahmedhany-1" /></p>
-
-<p>&nbsp;<img align="right" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=Ahmedhany-1&show_icons=true&locale=en" alt="Ahmedhany-1" /></p>
-
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h3 align="left">Snake Eating My Contributions:</h3>
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
-	</picture>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  
+| Platform | Profile | Status |
+|----------|---------|---------|
+| ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) | [Ahmedhany_1](https://codeforces.com/profile/Ahmedhany_1) | Active |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06) | [Ahmedhany_1](https://www.leetcode.com/Ahmedhany_1) | Active |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmedhany-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhany-1&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhany-1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedhany-1&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-hani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfathyhany@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedhany.fathy.5/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201552101836)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ahmedhany_1)
+
+</div>
+
+---
+
+📈 Contribution Graph
+<div align="center">
+  <img src="https://github.com/Ahmedhany-1/Ahmedhany-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<!-- Alternative if above doesn't work -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmedhany-1/Ahmedhany-1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+-->
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmedhany-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  ### Thanks for visiting! 😊
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</div>
